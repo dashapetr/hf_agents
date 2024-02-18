@@ -20,7 +20,7 @@ This talk equips you to hit the ground running. Elevate your AI game – your re
 
 ## Code from Talk
 
-This repository also includes the Jupyter notebook containing the code demonstrated during the talk. You can find it in the `code` directory.
+This repository also includes the Jupyter notebook containing the code demonstrated during the talk. You can find it in the `Unlocking_the_Power_of_LLM_Build_a_HuggingFace_Agent.ipynb` file.
 
 Feel free to explore the repository and dive deeper into the world of HuggingFace agents! 
 If you have any questions or feedback, don't hesitate to reach out. Enjoy! 😊
