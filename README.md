@@ -12,9 +12,11 @@ This talk equips you to hit the ground running. Elevate your AI game – your re
 
 ## Links Mentioned in Slides
 
+- [Using 🤗 transformers at Hugging Face](https://github.com/dashapetr/hf_agents/assets/54349415/f06085dc-79cd-4b7d-bc55-9f7b7789269b)
 - [Transformers Agents](https://huggingface.co/docs/transformers/main/transformers_agents)
 - [Custom Tools and Prompts](https://huggingface.co/docs/transformers/main/custom_tools)
-
+- [LangChain](https://github.com/dashapetr/hf_agents/assets/54349415/ff6d7581-b606-4a87-8805-a3cfe4fa3309)
+- [Amazon Bedrock](https://github.com/dashapetr/hf_agents/assets/54349415/9b94fb18-f287-4f43-a96f-d17ebc3606e4)
 
 ## Code from Talk
 
